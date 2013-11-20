@@ -1,0 +1,391 @@
+TTrailBlazer
+v7
+r0
+t348861752.238295
+cCheck dependencies
+cProcessInfoPlistFile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist TrailBlazer-Info.plist
+cCopyStringsFile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch.gch TrailBlazer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer normal x86_64
+cTouch /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebFrame.h
+c000000004BE291300000000000001EBF
+t1273139504
+s7871
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.h
+c000000004BE291300000000000000957
+t1273139504
+s2391
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004BF4701100000000000789DC
+t1274310673
+s494044
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004EE001870000000000006560
+t1323303303
+s25952
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/InfoPlist.strings
+c000000004D89CCC8000000000000002D
+t1300876488
+s45
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib
+c000000004D9A8AED000000000003C426
+t1301973741
+s246822
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.h
+c000000004D96794600000000000004B1
+t1301707078
+s1201
+i<Cocoa/Cocoa.h>
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m
+c000000004D99D47B000000000000172F
+t1301927035
+s5935
+i"TrailBlazerAppDelegate.h"
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer_Prefix.pch
+c000000004D9524B300000000000000B4
+t1301619891
+s180
+i<Cocoa/Cocoa.h>
+i<WebKit/WebKit.h>
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app
+t1301975261
+s102
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist
+t1300877033
+s898
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer
+t1301973496
+s34744
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/PkgInfo
+t1300877033
+s8
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1300877033
+s92
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1301975261
+s48714
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/history.plist
+t1301704471
+s181
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazer.LinkFileList
+c000000004D89CEE90000000000000128
+t1300877033
+s296
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o
+t1301973494
+s62828
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o
+t1301620211
+s5032
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/history.plist
+c000000004D966E3600000000000000B5
+t1301704246
+s181
+
+N/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m
+c000000004D89CCC80000000000000100
+t1300876488
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/English.lproj/InfoPlist.strings
+c000000004D89CCC8000000000000002D
+t1300876488
+s45
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/English.lproj/MainMenu.xib
+c000000004D9A8AED000000000003C426
+t1301973741
+s246822
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.h
+c000000004D96794600000000000004B1
+t1301707078
+s1201
+i<Cocoa/Cocoa.h>
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m
+c000000004D99D47B000000000000172F
+t1301927035
+s5935
+i"TrailBlazerAppDelegate.h"
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazer_Prefix.pch
+c000000004D9524B300000000000000B4
+t1301619891
+s180
+i<Cocoa/Cocoa.h>
+i<WebKit/WebKit.h>
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app
+t1327168952
+s102
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist
+t1300877033
+s898
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer
+t1327168952
+s34712
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/PkgInfo
+t1300877033
+s8
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1300877033
+s92
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/MainMenu.nib
+t1301975261
+s48714
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazer.LinkFileList
+c000000004F1AFDB10000000000000116
+t1327168945
+s278
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o
+t1327168951
+s62804
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o
+t1327168951
+s5016
+
+N/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m
+c000000004D89CCC80000000000000100
+t1300876488
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch.gch
+t1327168950
+s56248976
+
+N/var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-abjtezqdseslmybjwziehmkjhjdw/TrailBlazer_Prefix.pch.gch
+t1300879692
+s56248976
+
+N/var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch.gch
+t1301620210
+s56248976
+
+NTrailBlazer-Info.plist
+c000000004D89CCC800000000000003EA
+t1300876488
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348861745#348861745#0(0"0(0#1#0"17216053504#0"0#
+
+CCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323666290.247058
+e323666294.236652
+r1
+xCompileC
+xbuild/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m323666290#323666294#0(0"0(0#0#86"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m3418906643422528000#1841"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap" -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap" "-F/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/include" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources" -include /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch -c "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazerAppDelegate.m" -o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o"0#
+
+CCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348861750.642381
+e348861751.170612
+r1
+xCompileC
+xbuild/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o
+x/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m348861750#348861751#0(0"0(0#0#77"/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m4696075872#1716"    cd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap -F/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/include -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64 -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources -include /var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch -c /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazerAppDelegate.m -o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazerAppDelegate.o0#
+
+CCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323313011.121996
+e323313011.311596
+r1
+xCompileC
+xbuild/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m323313011#323313011#0(0"0(0#0#68"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m8604020640#1805"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap" -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap" "-F/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/include" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources" -include /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch -c "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/main.m" -o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348861750.620191
+e348861751.102633
+r1
+xCompileC
+xbuild/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o
+x/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m348861750#348861751#0(0"0(0#0#59"/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m4696075872#1680"    cd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap -F/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/include -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64 -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources -include /var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch -c /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/main.m -o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib"
+s323668060.323321
+e323668061.955707
+r1
+xCompileXIB
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib:371: warning: This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib323668060#323668061#0(311"/* com.apple.ibtool.document.warnings *//Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib:371: warning: This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.1(22@166"This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.323668061#18446744073709551615#0#0(6@88"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib323666541#371#0#371#0#0"0(0#0#88"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib8603537536#443"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/English.lproj/MainMenu.xib
+r0
+
+CCopyPlistFile "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/history.plist" history.plist
+s323397270.914178
+e323397271.466302
+r1
+xCopyPlistFile
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/history.plist
+xhistory.plist
+lSLF07#2@18"Copy history.plist323397270#323397271#0(0"0(0#0#75"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/history.plist8614254336#296"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist history.plist --outdir "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources"0#
+
+CCopyStringsFile "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s322569833.323181
+e322569833.683502
+r1
+xCopyStringsFile
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings322569833#322569833#0(0"0(0#0#93"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/English.lproj/InfoPlist.strings8621871584#419"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer" normal x86_64
+s323666294.236839
+e323666296.098256
+r1
+xLd
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer
+xnormal
+xx86_64
+lSLF07#2@121"Link /Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer323666294#323666296#0(0"0(0#0#0"8602875488#705"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" "-F/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" -filelist "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazer.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework WebKit -o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer"0#
+
+CLd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer normal x86_64
+s348861751.170720
+e348861752.190074
+r1
+xLd
+x/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer
+xnormal
+xx86_64
+lSLF07#2@112"Link /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer348861751#348861752#0(0"0(0#0#0"4696075872#650"    cd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug -F/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug -filelist /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/Objects-normal/x86_64/TrailBlazer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework WebKit -o /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/MacOS/TrailBlazer0#
+
+CProcessInfoPlistFile "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist" TrailBlazer-Info.plist
+s322569833.299690
+e322569833.323065
+r1
+xProcessInfoPlistFile
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist
+xTrailBlazer-Info.plist
+lSLF07#2@30"Process TrailBlazer-Info.plist322569833#322569833#0(0"0(0#0#84"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer-Info.plist8100126803883999232#397"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    builtin-infoPlistUtility TrailBlazer-Info.plist -genpkginfo "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app/Contents/Info.plist TrailBlazer-Info.plist
+r0
+
+CProcessPCH /var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch.gch TrailBlazer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s348861745.630614
+e348861750.620016
+r1
+xProcessPCH
+x/var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch.gch
+xTrailBlazer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TrailBlazer_Prefix.pch348861745#348861750#0(0"0(0#0#75"/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazer_Prefix.pch17208036608#1568"    cd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap -iquote /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap -F/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/include -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64 -I/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources -c /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/TrailBlazer_Prefix.pch -o /var/folders/9t/6487g5c956s639s2ymwg_xx80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ggutegkxjfrzaaejhuiysjmjvfhi/TrailBlazer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-abjtezqdseslmybjwziehmkjhjdw/TrailBlazer_Prefix.pch.gch TrailBlazer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s322572470.463059
+e322572492.991380
+r1
+xProcessPCH
+x/var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-abjtezqdseslmybjwziehmkjhjdw/TrailBlazer_Prefix.pch.gch
+xTrailBlazer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TrailBlazer_Prefix.pch322572470#322572492#0(0"0(0#0#84"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer_Prefix.pch8622111360#1682"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap" -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap" "-F/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/include" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources" -c "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer_Prefix.pch" -o /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-abjtezqdseslmybjwziehmkjhjdw/TrailBlazer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch.gch TrailBlazer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323313006.582790
+e323313011.121743
+r1
+xProcessPCH
+x/var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch.gch
+xTrailBlazer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TrailBlazer_Prefix.pch323313006#323313011#0(0"0(0#0#84"/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer_Prefix.pch7312264062588184576#1682"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-generated-files.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-own-target-headers.hmap" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-all-target-headers.hmap" -iquote "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/TrailBlazer-project-headers.hmap" "-F/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/include" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources/x86_64" "-I/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/TrailBlazer.build/Debug/TrailBlazer.build/DerivedSources" -c "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/TrailBlazer_Prefix.pch" -o /var/folders/Hc/Hcl25SJWGamMOQWxHXpRuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrailBlazer_Prefix-ezerksrcndunvldnvdsiggxoxwim/TrailBlazer_Prefix.pch.gch0#
+
+CTouch "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app"
+s323668061.956346
+e323668061.989608
+r1
+xTouch
+x/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app
+lSLF07#2@95"Touch /Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app323668061#323668061#0(0"0(0#0#0"8590292608#185"    cd "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer"    /usr/bin/touch -c "/Users/dasaanand/Documents/notes/6thSem/ITA minip/TrailBlazer/build/Debug/TrailBlazer.app"0#
+
+CTouch /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app
+s348861752.192655
+e348861752.238216
+r1
+xTouch
+x/Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app
+lSLF07#2@86"Touch /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app348861752#348861752#0(0"0(0#0#0"4696075872#163"    cd /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer    /usr/bin/touch -c /Users/dasaanand/Projects/Acad/ITA_minip/TrailBlazer/build/Debug/TrailBlazer.app0#
+
